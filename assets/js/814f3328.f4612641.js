@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandal_blog=self.webpackChunkrandal_blog||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/first-blog-post"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandal_blog=self.webpackChunkrandal_blog||[]).push([[419],{3995:function(l){l.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/hello","name":"hello","count":1,"permalink":"/tags/hello"}')}}]);
