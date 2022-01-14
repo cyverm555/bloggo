@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Randal Lee',
   tagline: 'Dinosaurs are cool but doggos are cooler',
-  url: 'https://cyverm555.github.io/bloggo',
-  baseUrl: '/',
+  url: 'https://cyverm555.github.io',
+  baseUrl: '/bloggo/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
